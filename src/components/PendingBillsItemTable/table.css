@@ -1,0 +1,27 @@
+#bills {
+  text-align: center;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#bills td, #bills th {
+  padding: 4px;
+}
+
+#bills th {
+  padding-top: 6px;
+  font-size: 12px;
+  padding-bottom: 4px;
+  text-align: center;
+}
+
+#bills tr {
+  font-size: 12px;
+  padding-bottom: 2px;
+  text-align: center;
+}
+
+.dozen {
+  font-size: 12px;
+  opacity:80%
+}

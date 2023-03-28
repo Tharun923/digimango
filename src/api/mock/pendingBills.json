@@ -1,0 +1,17 @@
+{
+  "98275498523": {
+    "bills": ["42275498568", "42273458568"],
+    "totalAmount": 900,
+    "totalQuantity": 3.5
+  },
+  "45675498523": {
+    "bills": ["90876778568"],
+    "totalAmount": 500,
+    "totalQuantity": 2
+  },
+  "38275498345": {
+    "bills": ["70876778568"],
+    "totalAmount": 150,
+    "totalQuantity": 1
+  }
+}

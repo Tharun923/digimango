@@ -1,0 +1,50 @@
+{
+  "42275498568": {
+    "billId": "42275498568",
+    "custName": "Pulla Reddy",
+    "custId": "98275498523",
+    "purchasedDate": 1614453569000,
+    "paidDate": 1614453569000,
+    "size": "Small",
+    "quantity": 1.5,
+    "status": "paid",
+    "price": 200,
+    "amount": 300
+  },
+  "42273458568": {
+    "billId": "42273458568",
+    "custName": "Pulla Reddy",
+    "custId": "98275498523",
+    "purchasedDate": 1614453569000,
+    "paidDate": 1614453569000,
+    "size": "Large",
+    "quantity": 2,
+    "status": "paid",
+    "price": 300,
+    "amount": 600
+  },
+  "90876778568": {
+    "billId": "90876778568",
+    "custName": "Bank Manager",
+    "custId": "45675498523",
+    "purchasedDate": 1614367407000,
+    "paidDate": 1614367407000,
+    "size": "Medium",
+    "quantity": 2,
+    "status": "unpaid",
+    "price": 250,
+    "amount": 500
+  },
+  "70876778568": {
+    "billId": "70876778568",
+    "custName": "Ramesh NRT",
+    "custId": "38275498345",
+    "purchasedDate": 1610479059000,
+    "paidDate": 1610479059000,
+    "size": "Large",
+    "quantity": 0.5,
+    "status": "unpaid",
+    "price": 300,
+    "amount": 150
+  }
+}
